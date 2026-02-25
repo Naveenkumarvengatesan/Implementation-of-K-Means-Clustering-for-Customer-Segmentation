@@ -1,4 +1,4 @@
-<img width="847" height="628" alt="image" src="https://github.com/user-attachments/assets/a3166621-fcb0-4812-ab8f-0909cbeda29a" /># Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
